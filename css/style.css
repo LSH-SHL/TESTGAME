@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+.hidden{
+  display: none;
+}
+.title {
+    color: white;
+    font-size : 80px;
+    font-weight: bold;
+    font-family: "statFont";
+    display: flex;
+    position: relative;
+    left: 45%;
+    height: 130px ; display: table-cell; vertical-align: middle;
+    margin-top: 40px;
+    padding-bottom: 25px;
+}
